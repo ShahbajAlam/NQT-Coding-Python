@@ -1,0 +1,1 @@
+Find the mean and median of the given array

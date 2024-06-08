@@ -1,0 +1,1 @@
+Second Smallest and Second Largest element in an array

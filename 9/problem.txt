@@ -1,0 +1,1 @@
+Average of all elements in an array
