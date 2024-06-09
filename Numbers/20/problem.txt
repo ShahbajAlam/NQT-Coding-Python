@@ -1,0 +1,6 @@
+Check if a Number is Automorphic
+
+A number is called an Automorphic number if and only if its square ends in the same digits as the number itself.
+
+Example: 25 * 25 = 625, which ends with 25.
+So, 25 is Automorphic Number

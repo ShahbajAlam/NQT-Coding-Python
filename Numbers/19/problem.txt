@@ -1,0 +1,3 @@
+Check if a number is a strong number or not
+
+A strong number is a positive integer whose sum of factorials of its digits equals the number itself.
