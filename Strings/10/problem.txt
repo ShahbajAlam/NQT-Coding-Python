@@ -1,0 +1,1 @@
+Capitalize first and last character of each word
